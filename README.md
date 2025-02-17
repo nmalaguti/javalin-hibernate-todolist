@@ -10,6 +10,5 @@ It allows users to add, complete, and delete tasks.
 
 ## Setup Instructions
 
-- Build the project: `mvn clean install`
-- Run the server: `mvn exec:java -Dexec.mainClass="com.github.nmalaguti.todolist.App"`
+- Build and run the server: `mvn verify`
 - Access the app at http://localhost:8080/
