@@ -10,4 +10,4 @@ It allows users to add, complete, and delete tasks.
 ## Setup Instructions
 
 - Build and run the server: `./mvnw verify`
-- Access the app at http://localhost:8080/**
+- Access the app at http://localhost:8080/
