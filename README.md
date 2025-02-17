@@ -1,4 +1,4 @@
-# Javalin Todo List Application
+**# Javalin Todo List Application
 
 This is a simple todo list application built with Javalin and Hibernate.
 It allows users to add, complete, and delete tasks.
@@ -6,9 +6,8 @@ It allows users to add, complete, and delete tasks.
 ## Prerequisites
 
 - JVM 11 or higher
-- Maven
 
 ## Setup Instructions
 
-- Build and run the server: `mvn verify`
-- Access the app at http://localhost:8080/
+- Build and run the server: `./mvnw verify`
+- Access the app at http://localhost:8080/**
