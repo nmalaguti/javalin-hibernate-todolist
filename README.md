@@ -1,4 +1,4 @@
-**# Javalin Todo List Application
+# Javalin Todo List Application
 
 This is a simple todo list application built with Javalin and Hibernate.
 It allows users to add, complete, and delete tasks.
